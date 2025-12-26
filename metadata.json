@@ -1,0 +1,8 @@
+
+{
+  "name": "Celestial Christmas Tree",
+  "description": "A high-end 3D holiday experience featuring a particle-based Christmas tree, hand gesture controls using MediaPipe, and a customizable memory photo wall.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
